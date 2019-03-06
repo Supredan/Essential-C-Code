@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1550839224 source:e:\c++workspace\practice\essential_c++\ch4_1\main.cpp
+	<iostream>
+	"Stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1550838911 e:\c++workspace\practice\essential_c++\ch4_1\include\stack.h
+	<vector>
+	<string>
+
+1550836041 source:e:\c++workspace\practice\essential_c++\ch4_1\src\stack.cpp
+	"Stack.h"
+
